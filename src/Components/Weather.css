@@ -1,6 +1,6 @@
 .weather{
   place-self: center;
-  padding:40px;
+  padding: 30px;
   border-radius: 10px;
   background-image: linear-gradient(45deg, #2f4680, #500ae4);
   display: flex;
@@ -37,7 +37,7 @@
 
 .weather-icon{
   width: 150px;
-  margin: 30px 0;
+  margin: 10px 0;
 }
 
 .temperature{
@@ -53,7 +53,7 @@
 
 .weather-data{
   width: 100%;
-  margin-top: 40px;
+  margin-top: 30px;
   color: #fff;
   display: flex;
   justify-content: space-between;
